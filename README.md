@@ -15,4 +15,4 @@ Este repositório contém os scripts e notebooks da série: Treinando uma Rede N
 
 ## Scripts e notebooks:
 
-1. [Implementando uma Representação Cromossomial](#)
+1. [Implementando uma Representação Cromossomial](https://github.com/jcfneto/ga-rnn/tree/main/Parte3)
