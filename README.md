@@ -11,8 +11,9 @@ Este repositório contém os scripts e notebooks da série: Treinando uma Rede N
  4. [O Teorema da Inexistência de Almoço Grátis](https://jcfneto.github.io/ann-ga-part-2/)
  5. [Busca](https://jcfneto.github.io/ann-ga-part-2/)
  6. [Esquema do GA](https://jcfneto.github.io/ann-ga-part-2/)
+ 7. [Representação Cromossomial](https://jcfneto.github.io/ann-ga-part-3/)
  
 
 ## Scripts e notebooks:
 
-1. [Implementando uma Representação Cromossomial](https://github.com/jcfneto/ga-rnn/tree/main/Parte3)
+1. [Implementando uma Representação Cromossomial](https://github.com/jcfneto/ga-ann/tree/main/Parte3)
