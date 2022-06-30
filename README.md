@@ -1,4 +1,4 @@
-# ga-rnn
+# ga-ann
 
 Este repositório contém os scripts e notebooks da série: Treinando uma Rede Neural MLP (Multilayer Perceptron) Utilizando Algoritmos Genéticos (GA) + Deploy.
 
